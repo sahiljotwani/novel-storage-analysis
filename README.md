@@ -8,4 +8,5 @@ MSc SES Dissertation (University of Edinburgh)
 - Models need to be run using PyPSA-Eur framework
 - Original 'config.yaml' file in PyPSA-Eur repo can be adjusted by using config files from uk-network-models/configs folder
 - PyPSA-Eur scripts also need to be modified. Scripts that have been changed have been included in the uk-network-models/scripts folder
+- Input parameters for storage technologies by including parameters detailed in the costs folder
 - Solve UK network by 'snakemake -j2 solve_all_networks'
