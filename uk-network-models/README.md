@@ -1,5 +1,5 @@
 
-### Solved models have been made available the followin Google Drive link
+### Solved models have been made available the following Google Drive link
 
 https://drive.google.com/drive/folders/1cH98dqO_QQi4JteFB9XY36fP66botLV4?usp=sharing
 
