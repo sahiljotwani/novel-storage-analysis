@@ -1,0 +1,47 @@
+﻿technology,year,parameter,value,unit
+CAES Storage,2030,investment,3.477,USD/kWh
+CAES Storage,2030,FOM,0,%/year
+CAES Storage,2030,VOM,0.5125,USD/MWh
+CAES Storage,2030,lifetime,30,years
+CAES Compressor,2030,investment,462.2377,USD/kW
+CAES Compressor,2030,FOM,1.55,%/year
+CAES Compressor,2030,lifetime,30,years
+CAES Compressor,2030,efficiency,0.7211,per unit
+CAES Turbine,2030,investment,600.7443,USD/kW
+CAES Turbine,2030,FOM,1.55,%/year
+CAES Turbine,2030,lifetime,30,years
+CAES Turbine,2030,efficiency,0.7211,per unit
+LAES Energy,2030,investment,94.37,USD/kWh
+LAES Energy,2030,FOM,0,%/year
+LAES Energy,2030,VOM,3.3,USD/MWh
+LAES Energy,2030,lifetime,30,years
+LAES Energy,2030,standing_loss,0.000083,per unit
+LAES Power,2030,investment,734,USD/kW
+LAES Power,2030,FOM,1.39,%/year
+LAES Power,2030,lifetime,25,years
+LAES Power,2030,efficiency,0.7746,per unit
+ETES Energy,2030,investment,88.83,USD/kWh
+ETES Energy,2030,FOM,0,%/year
+ETES Energy,2030,VOM,0,USD/MWh
+ETES Energy,2030,lifetime,30,years
+ETES Energy,2030,standing_loss,0.00042,per unit
+ETES Power,2030,investment,355.32,USD/kW
+ETES Power,2030,FOM,1,%/year
+ETES Power,2030,lifetime,30,years
+ETES Power,2030,efficiency,0.6708,per unit
+NaS Energy,2030,investment,622.89,USD/kWh
+NaS Energy,2030,FOM,0,%/year
+NaS Energy,2030,VOM,0.3,USD/MWh
+NaS Energy,2030,lifetime,13.5,years
+NaS Inverter,2030,investment,353.03,USD/kW
+NaS Inverter,2030,FOM,2.22,%/year
+NaS Inverter,2030,lifetime,13.5,years
+NaS Inverter,2030,efficiency,0.866,per unit
+FeFlow Energy,2030,investment,125,USD/kWh
+FeFlow Energy,2030,FOM,0,%/year
+FeFlow Energy,2030,VOM,0,USD/MWh
+FeFlow Energy,2030,lifetime,25,years
+FeFlow Inverter,2030,investment,1500,USD/kW
+FeFlow Inverter,2030,FOM,3,%/year
+FeFlow Inverter,2030,lifetime,25,years
+FeFlow Inverter,2030,efficiency,0.8944,per unit
