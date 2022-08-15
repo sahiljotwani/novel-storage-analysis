@@ -1,4 +1,4 @@
-# Modelling and Analysis of Novel Energy Storage Technologies in the UK Electricity Network
+# Modelling and Analysing Novel Energy Storage Technologies in the UK Electricity Network
 MSc SES Dissertation (University of Edinburgh)
 
 ## How to reproduce the results?
